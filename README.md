@@ -29,6 +29,5 @@ I'm a front-end developer, have more than two years of experience in web develop
 
 **My repositories**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ay192018repo=vue3atTypescript)](soybean-admin]https://github.com/ay192018/vue3atTypescript)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ay192018)](https://github.com/ay192018/vue3atTypescript)
 
