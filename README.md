@@ -27,4 +27,8 @@ I'm a front-end developer, have more than two years of experience in web develop
   <img width="376" height="176" src="https://github-readme-stats.vercel.app/api?username=ay192018&show_icons=true&theme=synthwave" alt="abhisheknaiidu" />
 </p>
 
+**My repositories**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=honghuangdc&repo=soybean-admin)](soybean-admin]https://github.com/ay192018/vue3atTypescript)
+
 
