@@ -3,7 +3,7 @@
 
 I'm a front-end developer, have more than two years of experience in web development.
 
-- 🔭 I’m currently working on **An admin template - Soybean Admin, based on Vue3+Vite+TypeScript+NaiveUI **
+- 🔭 I’m currently working on **An admin template - Soybean Admin, based on react+webpack+JavaScript+antdDesgin **
 - 🌱 I'm good at writing clean and high quality standard code.
 - 📫 How to reach me: Wechat(Pinia2018)、qq(2510186180)、gmail(1738202298@qq.com).
 
@@ -17,7 +17,7 @@ I'm a front-end developer, have more than two years of experience in web develop
 
 
 **open source project:**  
-- [soybean-admin](https://github.com/honghuangdc/soybean-admin): A fresh and elegant admin template, based on Vue3、Vite3、TypeScript、NaiveUI and UnoCSS.
+- [soybean-admin]https://github.com/ay192018/vue3atTypescript): A PC demo imitating Netease cloud music, based on Vue3、webpack、TypeScript、ElemenPlus and plugi-auto-import.
 
 
 📈  **My github stats**
@@ -27,6 +27,4 @@ I'm a front-end developer, have more than two years of experience in web develop
   <img width="476" height="176" src="https://github-readme-stats.vercel.app/api/top-langs?username=honghuangdc&hide=handlebars&langs_count=8&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="abhisheknaiidu" />
 </p>
 
-**My repositories**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=honghuangdc&repo=soybean-admin)](https://github.com/honghuangdc/soybean-admin)
