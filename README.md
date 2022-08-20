@@ -27,8 +27,5 @@ I'm a front-end developer, have more than two years of experience in web develop
   <img width="376" height="176" src="https://github-readme-stats.vercel.app/api?username=ay192018&show_icons=true&theme=synthwave" alt="abhisheknaiidu" />
 </p>
 
-**My repositories**
-
- <img width="576" height="176" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ay192018?username=ay192018&theme=shades-of-purple" alt="abhisheknaiidu" />
 
 
