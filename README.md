@@ -28,6 +28,8 @@ I'm a front-end developer, have more than two years of experience in web develop
 </p>
 
 **My repositories**
+<a herf='https://github.com/ay192018/vue3atTypescript'>
+ <img width="376" height="176" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ay192018" alt="abhisheknaiidu" />
+ </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ay192018)](https://github.com/ay192018/vue3atTypescript)
 
