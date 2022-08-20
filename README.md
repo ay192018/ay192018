@@ -22,7 +22,7 @@ I'm a front-end developer, have more than two years of experience in web develop
  
 📈  **My github stats**
 
-<p align="center" display="flex"> 
+<p align="center" display="flex" justify-content='space-between'> 
  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ay192018&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" alt="abhisheknaiidu" />
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ay192018&show_icons=true&theme=synthwave" alt="abhisheknaiidu" />
 </p>
