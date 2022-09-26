@@ -3,7 +3,6 @@
 
 I'm a front-end developer, have more than two years of experience in web development.
 
-- 🔭 I’m currently working on **An admin template - Soybean Admin, based on vue+vite+TypeScript+navie UI **
 - 🌱 I'm good at writing clean and high quality standard code.
 - 📫 How to reach me: Wechat(Pinia2018)、qq(2510186180)、gmail(1738202298@qq.com).
 
