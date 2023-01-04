@@ -14,10 +14,6 @@ I'm a front-end developer, have more than two years of experience in web develop
 - Vite、Webpack.
 - AntV、ECharts、Charts.js、d3、tailwind.
 
-
-**open source project:**  
-- [soybean-admin]https://github.com/ay192018/vue3atTypescript): A PC demo imitating Netease cloud music, based on Vue3、webpack、TypeScript、ElemenPlus and plugi-auto-import.
-
  
 📈  **My github stats**
 
