@@ -10,9 +10,9 @@ I'm a front-end developer, have more than two years of experience in web develop
 
 - Vue、React.
 - TypeScript、Nodejs.
-- Nest、Ionic、Uniapp.
+- Uniapp.
 - Vite、Webpack.
-- AntV、ECharts、Charts.js、d3、tailwind.
+- AntV、ECharts、Unocss、tailwind.
 
  
 📈  **My github stats**
